@@ -35,30 +35,6 @@ enhance customer service.
 
 ![](images/image2.png)
 
-**SQL Scripts**
-
-Provide the following SQL scripts:
-
--   **Create Tables Script** - The SQL script for creating the database
-    tables is available in the repository:
-
-```{=html}
-<!-- -->
-```
--   **Insert Data Script** - The SQL script for insert data to the
-    database tables is available in the repository:
-
-```{=html}
-<!-- -->
-```
--   **Drop Tables Script** - The SQL script for droping all tables is
-    available in the repository:
-
-```{=html}
-<!-- -->
-```
--   **Select All Data Script** - The SQL script for selectAll tables is
-    available in the repository:
 
 **Data**
 
