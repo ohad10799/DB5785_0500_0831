@@ -33,8 +33,7 @@ enhance customer service.
 
 **Data Structure Diagram (DSD)**
 
-![](images/image2.png){width="5.768055555555556in"
-height="2.2708333333333335in"}
+![](images/image2.png)
 
 **SQL Scripts**
 
@@ -68,11 +67,9 @@ Provide the following SQL scripts:
 >
 > **Entering a data to guest table:**
 >
-> ![](images/image3.png){width="5.768055555555556in"
-> height="1.9444444444444444in"}
+> ![](images/image3.png)
 >
-> ![](images/image4.png){width="5.768055555555556in"
-> height="3.109027777777778in"}
+> ![](images/image4.png)
 >
 > **Second tool:
 > using [generatedata](https://generatedata.com/generator). to create
@@ -80,26 +77,21 @@ Provide the following SQL scripts:
 >
 > **Entering a data to incidentType table:**
 >
-> ![](images/image5.png){width="5.768055555555556in"
-> height="1.2590277777777779in"}
-> ![](images/image6.png){width="4.46696741032371in"
-> height="2.807853237095363in"}
+> ![](images/image5.png)
+> ![](images/image6.png)
 >
 > **Third tool: using python to create csv file**
 >
 > **Part of Python code:**
 >
-> ![](images/image7.png){width="5.768055555555556in"
-> height="2.4180555555555556in"}
+> ![](images/image7.png)
 >
 > **Sql file made from the python script:**
 >
-> ![](images/image8.png){width="3.1223600174978126in"
-> height="3.62834208223972in"}
+> ![](images/image8.png)
 >
 > **Backup**
 
 -   **backups files are kept with the date of the backup:**
 
-> ![](images/image9.png){width="5.768055555555556in"
-> height="0.22291666666666668in"}
+> ![](images/image9.png)
