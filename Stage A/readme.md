@@ -29,8 +29,7 @@ enhance customer service.
 
 **Entity-Relationship Diagram (ERD)**
 
-![](images/image1.png){width="5.768055555555556in"
-height="3.8916666666666666in"}
+![](images/image1.png)
 
 **Data Structure Diagram (DSD)**
 
