@@ -11,15 +11,18 @@
 
 3.  Data Structure Diagram (DSD)
 
-4.  Design Decisions
+4.  Data Input Methods
 
-5.  Data Input Methods
+5.  Backup and Restore Procedures
 
-6.  Backup and Restore Procedures
+6.  Queries
 
-7.  Screenshots
+7. Constraints
 
-**Introduction**
+8. Rollback and Commit:
+
+
+**1) Introduction**
 
 The Hotel Management System is designed to store and manage
 guest-related data efficiently. It provides functionalities such as
@@ -27,42 +30,17 @@ guest check-in and check-out, room assignments, billing, and service
 requests. The goal of the system is to streamline hotel operations and
 enhance customer service.
 
-**Entity-Relationship Diagram (ERD)**
+**2) Entity-Relationship Diagram (ERD)**
 
-![](images/image1.png){width="5.768055555555556in"
-height="3.8916666666666666in"}
+![](images/image1.png)
 
-**Data Structure Diagram (DSD)**
+**3) Data Structure Diagram (DSD)**
 
 ![](images/image2.png){width="5.768055555555556in"
 height="2.2708333333333335in"}
 
-**SQL Scripts**
 
-Provide the following SQL scripts:
-
--   **Create Tables Script** - The SQL script for creating the database
-    tables is available in the repository:
-
-```{=html}
-<!-- -->
-```
--   **Insert Data Script** - The SQL script for insert data to the
-    database tables is available in the repository:
-
-```{=html}
-<!-- -->
-```
--   **Drop Tables Script** - The SQL script for droping all tables is
-    available in the repository:
-
-```{=html}
-<!-- -->
-```
--   **Select All Data Script** - The SQL script for selectAll tables is
-    available in the repository:
-
-**Data**
+**4) Data input methods**
 
 > **First tool: using [mockaro](https://www.mockaroo.com/)o to create
 > csv file**
@@ -98,14 +76,14 @@ Provide the following SQL scripts:
 > ![](images/image8.png){width="3.1223600174978126in"
 > height="3.62834208223972in"}
 >
-> **Backup**
+> **5) Backup**
 
 -   **backups files are kept with the date of the backup:**
 
 > ![](images/image9.png){width="5.768055555555556in"
 > height="0.22291666666666668in"}
 >
-> **Queries**
+> **6) Queries**
 >
 > **Select:**
 
@@ -274,7 +252,7 @@ height="1.079623797025372in"}
 ![](images/image43.png){width="4.965016404199475in"
 height="0.9785072178477691in"}
 
-**Constraints:**
+**7) Constraints:**
 
 1.  [חובה להכניס מספר טלפון לאורח]{dir="rtl"}
 
@@ -311,7 +289,7 @@ height="0.2986111111111111in"}
 ![](images/image51.png){width="5.768055555555556in"
 height="2.9611111111111112in"}
 
-**Rollback and Commit:**
+**8) Rollback and Commit:**
 
 ![](images/image52.png){width="5.768055555555556in"
 height="2.3652777777777776in"}
