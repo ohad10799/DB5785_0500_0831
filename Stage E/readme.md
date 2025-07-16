@@ -346,9 +346,9 @@ RoomNumber.
 
 ![](media/image61.png)
 
-![](media/image62.png)תרשים ERD של מסד הנתונים
+תרשים ERD של מסד הנתונים
 המאוחד:
-
+![](media/image62.png)
 תרשים DSD של מסד הנתונים המאוחד:
 
 ![](media/image63.png)
