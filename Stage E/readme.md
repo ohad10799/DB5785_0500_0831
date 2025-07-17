@@ -68,6 +68,8 @@
 שביעות רצונם על ידי תגובה מהירה ויעילה לכל פנייה, הזמנה או
 בעיה.
 
+**שלב 1 - עיצוב , בניה ואכלוס נתונים וגיבוי:**
+
 **Entity-Relationship Diagram (ERD)**
 
 ![](media/image1.png)
@@ -111,6 +113,8 @@
 -   **backups files are kept with the date of the backup:**
 
 > ![](media/image9.png)
+
+**שלב 2 - שאילתות ואילוצים:**
 
 **Queries**
 
